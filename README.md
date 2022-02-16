@@ -18,23 +18,23 @@ Change all content pages from HTML to PHP - so we can add code later...
   <nav>
       <ul>
           <li>
-              <a href="index.php">Home</a>
+              <a href="/">Home</a>
           </li>
 
           <li>
-              <a href="about.php">About Us</a>
+              <a href="/about.php">About Us</a>
           </li>
 
           <li>
-              <a href="list.php" class="current_page">Movie ratings</a>
+              <a href="/list.php" class="current_page">Movie ratings</a>
           </li>
 
           <li>
-              <a href="contact.php">Contact Us</a>
+              <a href="/contact.php">Contact Us</a>
           </li>
 
           <li>
-              <a href="sitemap.php">Site Map</a>
+              <a href="/sitemap.php">Site Map</a>
           </li>
       </ul>
   </nav>
