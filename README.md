@@ -10,7 +10,7 @@ part of the evote-2022 project sequence
 Change all content pages from HTML to PHP - so we can add code later...
 
 
-- change all `.html` file extension to `.php`
+- change all `.html` file extensions to `.php`
 
 - in every page change the navigation links to files ending with `.php`, e.g. the nav for the homepage is now:
 
